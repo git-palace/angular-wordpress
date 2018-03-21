@@ -38,12 +38,3 @@ This library is designed to make it easy for your Angular application to request
   - Disqus for comments 
   - Modal (lightbox) for post images 
 ___
-
-## Author
-
- **[Git Palace]**
-
- - [github/git-palace](https://github.com/git-palace)
-
-
-
